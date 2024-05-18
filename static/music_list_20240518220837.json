@@ -1,0 +1,63 @@
+[
+    {
+        "id": "9527",
+        "name": "Github 歌单",
+        "cover": "images/album.png",
+        "creatorName": "EXP",
+        "creatorAvatar": "images/avatar.jpg",
+        "item": [
+            {
+                "id": "1192f1b367ac0840bddd32358e947534",
+                "name": "Shayir Meshrap1",
+                "artist": "",
+                "album": "",
+                "url": "static/Shayir Meshrap/Shayir Meshrap1.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "1192f1b367ac0840bddd32358e947534",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "09a7837ecb17d7327c496258a6a04046",
+                "name": "Shayir Meshrap2",
+                "artist": "",
+                "album": "",
+                "url": "static/Shayir Meshrap/Shayir Meshrap2.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "09a7837ecb17d7327c496258a6a04046",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "1ca8bcb443507db7a7ab067f0ff52c5b",
+                "name": "Shayir Meshrap3",
+                "artist": "",
+                "album": "",
+                "url": "static/Shayir Meshrap/Shayir Meshrap3.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "1ca8bcb443507db7a7ab067f0ff52c5b",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "89c005f86234f899486af0144e2260ca",
+                "name": "Shayir Meshrap4",
+                "artist": "",
+                "album": "",
+                "url": "static/Shayir Meshrap/Shayir Meshrap4.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "89c005f86234f899486af0144e2260ca",
+                "pic_id": "",
+                "lyric_id": ""
+            }
+        ]
+    }
+]
